@@ -35,10 +35,6 @@
 
 ---
 
-
-
----
-
 ## 这是什么
 
 用于撰写售前培训方案书：客户要方案、投标比稿、老客户进阶课出新方案时，按七要素结构生成——名称按'行业+AI+成果'公式、背景讲清行业时机、价值点≥5条（硬性数值指标，不足即返工）、大纲细到每模块讲什么/多久/做什么、讲师简介、报价清晰。不适用：售前调研未做（先走调研流程）、纯内部备课大纲。触发词：写培训方案/方案书模板/客户要方案/课程方案缺什么。 metadata: cangjie.generated-by: cangjie-tools v2.5.0 cangjie.capability-id: cap.ai-training-profit-model.proposal-seven-elements cangjie.capability-revision: 1 cangjie.bundle-id: bundle.ai-training-profit-model cangjie.sour
@@ -68,6 +64,17 @@ MIT License
 添加时请备注：GitHub-proposal-seven-elements
 
 > 不提供免费技术支持。问题请走 Issue。
+
+---
+
+## 如果要商用
+
+代码是 MIT，商用不需要问我，改、卖、二次开发都行。
+
+不过商用场景通常比自用麻烦：部署环境、数据合规、出了问题谁兜底。真要落到业务里，
+可以先跟我说一声，这些坑我大概率踩过。
+
+微信 **enhaopang**，备注 `GitHub-仓库名`。
 
 ---
 
